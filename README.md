@@ -1,5 +1,5 @@
 # Automation Scenarios
-This repository is maintained by eramba limited (www.eramba.org), we provide sample automation scripts that can be used mainly for Internal Control Automation.
+This repository is maintained by eramba limited (www.eramba.org), in this repository we provide sample automation scripts that can be used mainly for Internal Control Automation.
 
 The directory structure used is Connector_Platform/Scenario, for example:
 
