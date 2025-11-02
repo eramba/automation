@@ -4,7 +4,7 @@
 This policy establishes the framework for managing cybersecurity and information security risks. Its goal is to ensure that risks are systematically identified, evaluated, treated, monitored, and communicated.
 
 ## Scope
-This policy applies to **[template: scope]**.
+This policy applies to **[example: all departments and locations where the organisation operates]**.
 
 ## Risk Classification
 
@@ -12,15 +12,13 @@ Risks are evaluated using an **Impact × Likelihood** model. Each risk is assign
 
 ### Impact Levels
 
-Impact reflects the potential effect a risk event could have on **[template: organisation name]**.
+Impact reflects the potential effect a risk event could have within the defined scope.
 
 | Impact Level | Description | Score |
 |---------------|--------------|-------|
 | **High** | A risk event could cause major disruption to the profitability of the organisation and/or result in serious legal consequences for its executives and shareholders. | 3 |
 | **Medium** | A risk event could cause a noticeable impact to a specific department or service but can be managed without major business disruption. | 2 |
 | **Low** | A risk event has minimal effect on operations or can be easily contained and remediated. | 1 |
-
-[template: adjust descriptions and examples to align with the organisation’s risk appetite and impact scale.]
 
 ### Likelihood Levels
 
@@ -42,12 +40,10 @@ The overall **Risk Rating** is determined by combining the **Impact** and **Like
 | **Medium Likelihood** | Low - GRC | Medium - GRC + Manager | Medium - GRC + C-Level |
 | **High Likelihood** | Medium - GRC + Manager | Medium - GRC + C-Level | High - GRC + C-Level |
 
-[template: adjust the matrix layout or thresholds to reflect the organisation’s defined risk tolerance.]
-
 ## Risk Identification
 Risks are identified through the following methods:
 
-- Interviews and workshops with **[template: department heads or key stakeholders]**  
+- Interviews and workshops with **[example: department heads or key stakeholders]**  
 - Review of incidents, audit findings, and operational reports  
 - Evaluation of new projects, systems, or regulatory requirements  
 - These interviews must be recorded in the form of notes or video/audio recordings.
@@ -57,7 +53,7 @@ Each identified risk is analyzed in order to establish its context, particularly
 
 - Determining the likelihood and impact. The classification of the risk must be performed by the GRC team and the area that created the issue. In case of disagreement, their immediate superiors must be involved.  
 - Identifying and (optionally) recording its associated threats and vulnerabilities.  
-- Documenting relevant context such as **[template: business owner, affected assets, etc.]**.
+- Documenting relevant context such as **[example: business owner, affected assets, etc.]**.
 
 ## Risk Treatment
 The following risk treatment options exist, each requiring specific treatment activities:
@@ -72,12 +68,12 @@ All treatment decisions and residual risks must be documented and approved as de
 ## Risk Communication and Approval
 Risk results and treatment decisions are communicated and approved as follows:
 
-- Annual risk reporting is presented to **[template: define top management roles or committees, e.g., C-Level executives or Risk Committee]**.
+- Annual risk reporting is presented to **[example: C-Level executives and / or Risk Committee]**.
 
 ## Risk Reviews
 Risk assessments and treatment plans are reviewed:
 
-- **Annually**, during **[template: define review process or governance forum name, e.g., ISMS Management Review]**.  
-- **Whenever major changes occur**, including **[template: examples of triggers — new systems, services, or business processes]**.
+- **Annually**.  
+- **Whenever major changes occur**, including **[example: relevant changes on the scope or any of its components]**.
 
 The review must be conducted by those involved in the risk and as mandated in the Risk Matrix.
