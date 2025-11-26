@@ -1,8 +1,12 @@
 # Eramba Automation Scripts
 
-This repository is maintained by **Eramba Limited** (https://www.eramba.org). This repository is made of template automation scripts that must be adjusted to your needs. Feel free to fork, adapt and use it on your environment. If you would like to contribute with a new scenario template please post your code at https://discussions.eramba.org
+This repository is maintained by **Eramba Limited** (https://www.eramba.org).
 
-It contains **sample automation scripts** that help automate tasks within the **Eramba Enterprise** platform.
+It contains **template automation scripts** that help automate tasks within the **Eramba Enterprise** platform.  
+These templates are meant to be **adjusted to your specific environment and requirements**.
+
+Feel free to **fork**, modify, and use them as needed.  
+If you want to contribute new scenario templates, please share them at: https://discussions.eramba.org
 
 ## Directory Structure
 
