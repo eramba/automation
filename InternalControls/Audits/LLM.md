@@ -7,5 +7,5 @@
   -  Connection settings (url to connect, keys, secrets, etc)
   -  Evidence gathering
   -  Evidence analysis
-  -  Evidence documentation (outcome of the script)
+  -  Evidence documentation (this is a brief report that includes the evidence you used, the analysis you applied and the result of the test -pass or failed)
 - I need your work on a zip file so I can download on my computer and test it 
