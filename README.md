@@ -5,8 +5,7 @@ This repository is maintained by **Eramba Limited** (https://www.eramba.org).
 It contains **template automation scripts** that help automate tasks within the **Eramba Enterprise** platform.  
 These templates are meant to be **adjusted to your specific environment and requirements**.
 
-Feel free to **fork**, modify, and use them as needed.  
-If you want to contribute new scenario templates, please share them at: https://discussions.eramba.org
+Feel free to **fork**, modify, and use them as needed. If you want to contribute new scenario templates, please share them at: https://discussions.eramba.org
 
 ## Directory Structure
 
