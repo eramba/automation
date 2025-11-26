@@ -1,0 +1,7 @@
+{
+    "name": "eramba/aws-iam-mfa-audit",
+    "description": "Automation script to audit AWS IAM users for MFA enablement",
+    "require": {
+        "aws/aws-sdk-php": "^3.300"
+    }
+}
