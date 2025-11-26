@@ -6,9 +6,7 @@ It contains **sample automation scripts** that help automate tasks within the **
 
 ## Directory Structure
 
-Automation scripts follow the structure: Module / Sub-Module (optional) / Connector_Platform / Scenario
-
-Automation scripts follow the structure:
+Automation scripts in this repository follow the directory structure: Module / Sub-Module (optional) / Connector_Platform / Scenario
 
 ### Examples — Internal Controls / Audits
 
