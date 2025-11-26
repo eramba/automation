@@ -1,6 +1,7 @@
 # This file contains instructions for LLMs
 
-- You will a prompt with an testing automation scenario, for example: I need to test if accounts in AWS have MFA enabled or not
+- You will a prompt with an testing automation scenario and a test success criteria, for example: I need to test if accounts in AWS have MFA enabled or not, they all must have MFA enabled to pass the test
+- You need to challenge with questions until the test scenario and success criteria are clear
 - You will always need to connect to one external systems, for example: AWS, Azure, 1Password, etc
 - You will create single file PHP scripts that rely if necesary on external vendors to facilitate connections (composer) to these providers
 - Always include a .gitignore file so the composer directories are not then uploaded to Github
