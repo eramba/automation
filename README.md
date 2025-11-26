@@ -35,5 +35,3 @@ In addition, each script directory includes a `README.md` describing:
 - Supported platforms  
 - Authentication parameters (if applicable)  
 - Configuration parameters (if applicable)
-
-You must adapt these scripts template approach to your specific needs!
