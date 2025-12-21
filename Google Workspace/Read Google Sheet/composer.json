@@ -1,0 +1,12 @@
+{
+  "name": "eramba/eramba-google-sheets-export",
+  "description": "Single-run script to read a Google Spreadsheet and output employee role data as JSON for eramba automations.",
+  "type": "project",
+  "license": "proprietary",
+  "require": {
+    "php": ">=8.1",
+    "google/apiclient": "^2.0"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
