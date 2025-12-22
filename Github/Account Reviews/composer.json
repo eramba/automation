@@ -1,0 +1,9 @@
+{
+  "name": "eramba/automation-github-account-audit",
+  "description": "Eramba automation: compare GitHub org accounts against active employees JSON",
+  "type": "project",
+  "require": {
+    "php": ">=8.1",
+    "guzzlehttp/guzzle": "^7.8"
+  }
+}
