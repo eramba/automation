@@ -34,17 +34,17 @@ echo editObjectMacro($data, $itemId);
 2. The final delivery must be provided as a **download-ready ZIP file** containing only these two files.
 
 ## Input Variables
-- Any input variable required by the script (credentials, tokens, hosts, file paths, etc.) **must**:
-  - Have the following format: "%SECRET_chatgpt_key%", where the variable name (chatgpt_key) is pre-appended by "SECRET_" and the string is in between "%"
-  - Always assign that secret to a normal php variable, for example: $chatgpt_key = "%SECRET_chatgpt_key%"
-- This format is mandatory because all variables will be stored as **Eramba secrets**.
+- We will test script first on our Linux computer and then on Eramba Automation
+- When we test on our computer, all input variables must be Linux environmental
+- When we test on Eramba automation, we use a special format: "%SECRET_chatgpt_key%", where for example the variable name (chatgpt_key) is pre-appended by "SECRET_" and the string is in between "%". Always assign that secret to a normal php variable, for example: $chatgpt_key = "%SECRET_chatgpt_key%"
+- We need a simple switch on the top of the code where we indicate if we are using Linux or Eramba testing
 
 ## Execution Model
 - The script must be designed to:
   - Run once
   - Perform its task
   - Produce its output
-  - Exit cleanly
+  - Any error must be shown on STDOUT
 - No interactive prompts.
 - No background processes.
 - No persistent state.
