@@ -1,3 +1,18 @@
-This is our library of Online Assessments, they are grouped by "topic" and should be fully functional to import into eramba.
+# Online Assessments Library
 
-- Software Development Security.OA.csv: We use this questionnaire to understand what basic software development standards are applied by the customer and, in certain topics, what evidence they could provide if they are audited. This is useful for two things: producing adjustments to our Software Development Security policy template and performing general maturity assessments. The more often they respond “inconsistent” to the questions, the less standardized their practices are and, therefore, the less mature they are in this regard.
+This repository contains our library of Online Assessments.
+
+The assessments are grouped by **topic** and should be fully functional for import into **eramba**.
+
+## Available Assessments
+
+### Software Development Security.OA.csv
+
+This questionnaire is used to understand which basic software development security standards are applied by the customer and, for certain topics, what evidence they could provide if audited.
+
+It is useful for:
+
+- Adjusting our **Software Development Security** policy template.
+- Performing general maturity assessments.
+
+The more often a customer responds **“inconsistent”** to the questions, the less standardized their practices are and, therefore, the less mature they are in this area.
