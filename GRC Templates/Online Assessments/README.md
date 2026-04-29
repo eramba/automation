@@ -2,24 +2,10 @@
 
 This repository contains our library of Online Assessments.
 
-The assessments are grouped by **topic** and should be fully functional for import into **eramba**.
-
-## Available Assessments
-
-### Software Development Security.OA.csv
-
-This questionnaire is used to understand which basic software development security standards are applied by the customer and, for certain topics, what evidence they could provide if audited.
-
-It is useful for:
-
-- Identify what controls and technologies are in use, this can later be to create Internal Control and identify potential automation capabilities
-- Adjusting our [**Software Development Security**](https://github.com/eramba/templates/blob/master/GRC%20Templates/Policies/Software%20Development%20Policy.md) policy template.
-- Performing general maturity assessments.
-
-The more often a customer responds **“inconsistent”** to the questions, the less standardized their practices are and, therefore, the less mature they are in this area.
-
-## Usage Notes
-
+- The assessments are grouped by **topic** and should be fully functional for import into **eramba Online Assessment module**.
+- Their naming convention follows the same as our template [**Policies**] (https://github.com/eramba/templates/tree/master/GRC%20Templates/Policies)
 - This questionnaire should be uploaded to the **Online Assessments** module as a questionnaire. The Online Assessment link can then be sent to the recipient department for completion.
-- Software development may follow different processes and involve different teams for each application. Ideally, this Online Assessment should be run separately for each team or application when their development process differs. Ultimately, this may also lead to different policies.
+- Answers can be used to adjust policy templates using an LLM (reads the answers and suggest corrections on our standard templates)
+- Some Online Assessments should be run multiple times if the recipient team follows different processes for each **topic**. For example, **Software Development Security** may need to be run multiple times if the recipient team has different procedures and/or technologies in place for each software application they build. In many cases, this will result in multiple policies, one per application.
+- Most questions in Online Assessments use dropdowns, typically **Yes**, **No**, or **Inconsistent**, to validate whether a statement is true. For example: “Do you encrypt laptops?”
 
