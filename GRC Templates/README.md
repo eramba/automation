@@ -6,6 +6,7 @@ It is composed of three main building blocks:
 
 - Policies
 - Internal Controls
+- Online Assessment Questionaires
 - Automation Scripts
 
 Each element has a distinct purpose and they are designed to work together.
